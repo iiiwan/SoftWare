@@ -35,7 +35,10 @@ I personally don't think you should have more than 30 lines of code in a functio
 - Constant<br>
 -Constant names are all capitalized, words are separated by underscores, and semantic expression complete and clear, not too long names, such as **MAX_STOCK_COUNT**.<br><br>
 - Blank line rule<br>
--Blank lines separate logically related code segments to improve readability. 
-- Annotation rules
-- Space before and after operator
-- Other rules
+-Blank lines separate logically related code segments to improve readability.<br><br>
+- Annotation rules<br>
+-Content should be simple, clear, accurate meaning, to prevent annotation ambiguity, wrong annotation is not only useless but harmful.
+- Space before and after operator<br>
+-Operators should be preceded by a space<br><br>
+- Other rules<br>
+-Don't name any language banned by any country
